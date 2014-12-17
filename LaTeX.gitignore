@@ -1,0 +1,7 @@
+# LaTeX build artifacts  
+*.aux
+*.log
+
+# output
+*.pdf
+*.ps
